@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/candy-react/static/css/main.59b90204.css",
+    "main.js": "/candy-react/static/js/main.4c9c330c.js",
+    "static/media/purple-candy.png": "/candy-react/static/media/purple-candy.ae25b8a55e061a50346f.png",
+    "static/media/blue-candy.png": "/candy-react/static/media/blue-candy.73120c156936a4206714.png",
+    "static/media/red-candy.png": "/candy-react/static/media/red-candy.3658b37c743115db2a9a.png",
+    "static/media/orange-candy.png": "/candy-react/static/media/orange-candy.f106b2cdd163575a7c68.png",
+    "static/media/yellow-candy.png": "/candy-react/static/media/yellow-candy.a3d87a9b362b5f969133.png",
+    "static/media/green-candy.png": "/candy-react/static/media/green-candy.599f70161bdb3cadac66.png",
+    "static/media/blank.png": "/candy-react/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "index.html": "/candy-react/index.html",
+    "main.59b90204.css.map": "/candy-react/static/css/main.59b90204.css.map",
+    "main.4c9c330c.js.map": "/candy-react/static/js/main.4c9c330c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59b90204.css",
+    "static/js/main.4c9c330c.js"
+  ]
+}
